@@ -3,8 +3,7 @@ layout: soon
 permalink: /
 ---
 
-# Coming soon
+# Personal ID Privacy - Coming soon
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut purus.
-Some call to action.
+Take control over how third parties use and share your information. Privacy first. Transparency focused. Reasonable security.
 

@@ -1,9 +1,9 @@
 # Site settings
 # Site title
-title: Coming Soon
+title: IDShade
 
 # Site description
-description: A fancy description of the site
+description: Privacy protection for your identity
 
 # Site background
 background: "images/background.jpg"
@@ -13,27 +13,27 @@ logo: "images/logo.png"
 
 # Countdown clock
 # (This can be commented out if not required.)
-countdown:
+#countdown:
   # format: "2013-09-25 16:00:00 +0800"
-  launch_date: 2025-01-01
+  #launch_date: 2025-01-01
   # %d, %H, %M, %S available
-  format: "%d days, %H hours, %M minutes, %S seconds"
+  #format: "%d days, %H hours, %M minutes, %S seconds"
 
 # Mailing list subscription
 # (This can be commented out if not required.)
 subscribe:
-  action: "/thank-you"
+  action: "https://tech.us7.list-manage.com/subscribe/post?u=4f9776a24d2f95a3b0d7d1f98&amp;id=49b5728123"
 
 # Social media links
 # (This can be commented out if not required.)
-social:
-  facebook: "#"
-  twitter: "#"
-  google: "#"
-  instagram: "#"
-  pinterest: "#"
-  snapchat: "#"
-  linkedin: "in/#"
+#social:
+#  facebook: "#"
+#  twitter: "#"
+#  google: "#"
+#  instagram: "#"
+#  pinterest: "#"
+#  snapchat: "#"
+#  linkedin: "in/#"
 
 # Build settings
 markdown: kramdown
