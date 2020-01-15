@@ -1,0 +1,15 @@
+/* TEAM */
+	Developer: Eric Mann
+	Contact:   eric@eamann.com
+	URI:       https://eamann.com
+
+/* THANKS */
+	Template Design: Coderthemes
+	URI:             https://coderthemes.com
+
+	Iconography:     Vectors Point, PK
+	URI:             https://thenounproject.com/vectorspoint
+
+/* SITE */
+	Created:  2020-01-05
+	Template: https://coderthemes.com/minton/
